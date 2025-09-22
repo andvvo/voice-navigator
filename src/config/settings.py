@@ -1,2 +1,2 @@
-HOTKEY = 'space'
-FILENAME = 'input.wav'
+HOTKEY = "SPACE"
+FILENAME = "input.wav"
